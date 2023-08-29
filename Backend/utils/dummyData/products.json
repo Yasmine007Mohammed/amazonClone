@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Playstation Games",
+        "slug": "playstation-games",
+        "describtion": "This Game made in USA and nedd computer to play",
+        "quantity" : 50,
+        "sold" : 18,
+        "price" : 250,
+        "priceAfterDiscount" : 150,
+        "category": "64a193afa39b66057a0c7010",
+        "ratingAverage" : 3.8,
+        "ratingQuntity" : 24
+    },
+    {
+        "title": "Kids clothes [dress, jacket,chemise]",
+        "slug": "kids-clothes-dress-jacketchemise",
+        "describtion": "Clothes of many sizes, colors and style",
+        "quantity" : 150,
+        "sold" : 110,
+        "price" : 65,
+        "priceAfterDiscount" : 51,
+        "category": "64a193caa39b66057a0c7012",
+        "ratingAverage" : 4.7,
+        "ratingQuntity" : 400
+    },
+    {
+        "title": "Learning Courses",
+        "slug": "learning-courses",
+        "describtion": "Courses about programming language, framework",
+        "quantity" : 6,
+        "sold" : 3,
+        "price" : 70,
+        "priceAfterDiscount" : 65,
+        "category": "64a05422e3ed447b70c07bdb",
+        "ratingAverage" : 4,
+        "ratingQuntity" : 560
+    },
+    {
+        "title": "Historical Books",
+        "slug": "historical-books",
+        "describtion": "Books about History by many writers",
+        "quantity" : 100,
+        "sold" : 65,
+        "price" : 20,
+        "priceAfterDiscount" : 17,
+        "category": "64a0533535b18e8d391e0bf0",
+        "ratingAverage" : 3.7,
+        "ratingQuntity" : 560
+    }
+]
