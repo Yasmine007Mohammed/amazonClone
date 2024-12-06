@@ -47,23 +47,23 @@ Technologies  and Tools
    Use the `git clone` command to clone the GitHub repository to your local machine.
    ```bash
    git clone https://github.com/Yasmine007Mohammed/amazonClone.git
-
+  ```
 
   2. **Initialize a Package.json File (if not already done):**
    If your project doesn't already have a `package.json` file, you can create one by running:
    ```bash
    npm init
-
+  ```
 
   3. **Install depends**
    ```bash
       npm install
-
+  ```
 
   4. **Run Application**
   ```bash
      npm test
-
+  ```
 
 ## Project Structure
  ```powershell
