@@ -26,15 +26,23 @@ Technologies  and Tools
 ## **Key Features:** 
 
   **User Authentication:** Secure user authentication endpoints using JWT tokens.
+  
   **User Profiles:** Fetch and update user profiles, including profile image, and contact information.
+  
   **Product Management:** Add, Update, Delete products details such as name, description, price, photos, category, and rating.
+  
   **Shopping Cart Management:** Users can Add or Remove items.
+  
   **Order Management:** Handle order's details and Payment.
+  
   **Review Management:** Create, retrieve, update, and delete reviews.
+  
   **Pagination:** Paginate large data sets for efficient retrieval and presentation.
+  
   **Upload Images:** Upload and manage images to be included in category, product or user profiles.
 
 ## Installation
+
   1. **Clone the Repository:**
    Use the `git clone` command to clone the GitHub repository to your local machine.
    ```bash
